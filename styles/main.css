@@ -16,3 +16,10 @@ input {
     margin-right: 10px;
     width: 100%;
 }
+
+.search-buttons button {
+    border-style: none;
+    border-radius: 4px;
+    background-color: whitesmoke;
+    padding: 10px 20px;
+}

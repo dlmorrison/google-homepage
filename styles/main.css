@@ -1,8 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px;
+}
+
+.navbar a {
+    padding: 0px 5px;
+    font-size: 13px;
+    color: rgb(50, 50, 50);
+}
+
 main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 25vh;
+    margin-top: 20vh;
 }
 
 #logo {
